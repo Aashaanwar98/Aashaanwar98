@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aasha 👋
 
-<!--
-**Aashaanwar98/Aashaanwar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a Data Analyst and MSBA graduate with experience in data-driven decision-making,
+process optimization, and reporting. I currently work as an HR & Administration at
+MMY US, where I regularly analyze HR, workforce, and operational data to support
+business decisions.
 
-Here are some ideas to get you started:
+## Skills
+- Excel (Pivot Tables, VLOOKUP/XLOOKUP, dashboards)
+- SQL (basic querying and data extraction)
+- Python (Pandas, NumPy for data analysis)
+- Power BI (basic dashboards and visualizations)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+This GitHub showcases my learning journey and projects as I strengthen my skills in:
+- Data analysis and reporting
+- Business and HR analytics
+- Data visualization and storytelling
+
+## Career Goal
+To transition into a full-time Data Analyst or Business Analyst role where I can
+combine business knowledge with data-driven insights.
